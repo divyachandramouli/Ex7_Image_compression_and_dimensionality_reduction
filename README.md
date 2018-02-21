@@ -9,6 +9,6 @@ This programming exercise was done as part of Coursera's Machine Learning Course
 * Computed the cluster centroids on the image, and used the 16 colors to replace the pixels in the original image.
 
 ## Dimensionality reduction: Find a low-dimensional representation of face images
- 
+
 * Used principal component analysis to find a low-dimensional representation of face images.
 * Normalized the dataset of face images, computed principal components, projected the data onto the principal components and reconstructed an approximation of the data
